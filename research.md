@@ -18,6 +18,7 @@ ArXiv submission and slides for the [October 2022 Workshop on Statistical Deep L
 - [Poster (ADSN 2022)](TRJP_Poster_ADSN_2022.pdf)
 
 Cite:
+```
     @inproceedings{davies2023transport,
       title={Transport Reversible Jump Proposals},
       author={Davies, Laurence and Salomone, Robert and Sutton, Matthew and Drovandi, Chris},
@@ -26,7 +27,7 @@ Cite:
       year={2023},
       organization={PMLR}
     }
-
+```
 ## Bayesian detectability of induced polarization in airborne electromagnetic data
 
 Davies, L and Ley-Cooper, AY and Sutton, M and Drovandi, C
@@ -36,6 +37,7 @@ Detection of induced polarization (IP) effects in airborne electromagnetic measu
 - [Published article](https://academic.oup.com/gji/article/235/3/2499/7060381)
 
 Cite:
+```
     @article{davies2023bayesian,
       title={Bayesian detectability of induced polarization in airborne electromagnetic data},
       author={Davies, L and Ley-Cooper, AY and Sutton, M and Drovandi, C},
@@ -46,3 +48,4 @@ Cite:
       year={2023},
       publisher={Oxford University Press}
     }
+```
