@@ -1,6 +1,12 @@
 # Research
 
+## Reversible jump Markov chain Monte Carlo and multi-model samplers
 
+Yanan Fan, Scott A. Sisson, Laurence Davies
+
+To appear in the second edition of the MCMC handbook, S. P. Brooks, A. Gelman, G. Jones and X.-L. Meng (eds), Chapman & Hall.
+
+- [Preprint](https://arxiv.org/abs/1001.2055v2)
 
 ## Transport reversible jump proposals
 
@@ -19,14 +25,14 @@ ArXiv submission and slides for the [October 2022 Workshop on Statistical Deep L
 
 Cite:
 ```
-    @inproceedings{davies2023transport,
-      title={Transport Reversible Jump Proposals},
-      author={Davies, Laurence and Salomone, Robert and Sutton, Matthew and Drovandi, Chris},
-      booktitle={International Conference on Artificial Intelligence and Statistics},
-      pages={6839--6852},
-      year={2023},
-      organization={PMLR}
-    }
+@inproceedings{davies2023transport,
+  title={Transport Reversible Jump Proposals},
+  author={Davies, Laurence and Salomone, Robert and Sutton, Matthew and Drovandi, Chris},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={6839--6852},
+  year={2023},
+  organization={PMLR}
+}
 ```
 ## Bayesian detectability of induced polarization in airborne electromagnetic data
 
@@ -38,14 +44,14 @@ Detection of induced polarization (IP) effects in airborne electromagnetic measu
 
 Cite:
 ```
-    @article{davies2023bayesian,
-      title={Bayesian detectability of induced polarization in airborne electromagnetic data},
-      author={Davies, L and Ley-Cooper, AY and Sutton, M and Drovandi, C},
-      journal={Geophysical Journal International},
-      volume={235},
-      number={3},
-      pages={2499--2523},
-      year={2023},
-      publisher={Oxford University Press}
-    }
+@article{davies2023bayesian,
+  title={Bayesian detectability of induced polarization in airborne electromagnetic data},
+  author={Davies, L and Ley-Cooper, AY and Sutton, M and Drovandi, C},
+  journal={Geophysical Journal International},
+  volume={235},
+  number={3},
+  pages={2499--2523},
+  year={2023},
+  publisher={Oxford University Press}
+}
 ```
